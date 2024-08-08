@@ -1,3 +1,3 @@
 module.exports = {
-  url: "mongodb://20.199.81.126:27017/crud"
+  url: "mongodb://192.168.1.171:27017/to-do-app"
 };
