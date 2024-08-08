@@ -5,7 +5,7 @@ const mongoose = require("mongoose"); // Import mongoose module
 const app = express();
 
 var corsOptions = {
-  origin: "http://20.199.81.126:8181"
+  origin: "http://192.168.1.171:8181"
 };
 
 app.use(cors(corsOptions));
